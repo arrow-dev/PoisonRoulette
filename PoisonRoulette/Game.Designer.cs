@@ -37,6 +37,7 @@
             this.pbxPoison = new System.Windows.Forms.PictureBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.lblTotal = new System.Windows.Forms.Label();
+            this.btnQuit = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbxPoison)).BeginInit();
             this.SuspendLayout();
             // 
@@ -102,9 +103,9 @@
             // 
             this.pbxPoison.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.pbxPoison.Image = global::PoisonRoulette.GameResource.poison;
-            this.pbxPoison.Location = new System.Drawing.Point(465, 177);
+            this.pbxPoison.Location = new System.Drawing.Point(-24, 217);
             this.pbxPoison.Name = "pbxPoison";
-            this.pbxPoison.Size = new System.Drawing.Size(280, 382);
+            this.pbxPoison.Size = new System.Drawing.Size(308, 382);
             this.pbxPoison.TabIndex = 5;
             this.pbxPoison.TabStop = false;
             this.pbxPoison.Visible = false;
@@ -124,6 +125,16 @@
             this.lblTotal.TabIndex = 6;
             this.lblTotal.Text = "Total Games:";
             // 
+            // btnQuit
+            // 
+            this.btnQuit.Location = new System.Drawing.Point(1113, 12);
+            this.btnQuit.Name = "btnQuit";
+            this.btnQuit.Size = new System.Drawing.Size(75, 23);
+            this.btnQuit.TabIndex = 7;
+            this.btnQuit.Text = "Quit";
+            this.btnQuit.UseVisualStyleBackColor = true;
+            this.btnQuit.Click += new System.EventHandler(this.btnQuit_Click);
+            // 
             // Game
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -132,6 +143,7 @@
             this.BackgroundImage = global::PoisonRoulette.GameResource.Bar;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(1200, 600);
+            this.Controls.Add(this.btnQuit);
             this.Controls.Add(this.lblTotal);
             this.Controls.Add(this.pbxPoison);
             this.Controls.Add(this.lblInvincible);
@@ -160,6 +172,7 @@
         private System.Windows.Forms.PictureBox pbxPoison;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label lblTotal;
+        private System.Windows.Forms.Button btnQuit;
     }
 }
 

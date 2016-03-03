@@ -183,5 +183,10 @@ namespace PoisonRoulette
             pbxPoison.Hide();
             timer1.Stop();
         }
+
+        private void btnQuit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
