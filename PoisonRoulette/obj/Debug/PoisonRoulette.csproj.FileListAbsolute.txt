@@ -1,0 +1,14 @@
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\bin\Debug\PoisonRoulette.exe.config
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\bin\Debug\PoisonRoulette.exe
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\bin\Debug\PoisonRoulette.pdb
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.Game.resources
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.Properties.Resources.resources
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.GameResource.resources
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.csproj.GenerateResource.Cache
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.exe
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.pdb
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\bin\Debug\PoisonRoulette.exe.manifest
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\bin\Debug\PoisonRoulette.application
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.exe.manifest
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\PoisonRoulette\obj\Debug\PoisonRoulette.application

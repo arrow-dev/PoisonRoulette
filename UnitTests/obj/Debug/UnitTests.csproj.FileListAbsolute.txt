@@ -1,0 +1,9 @@
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\bin\Debug\PoisonRoulette.exe
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\bin\Debug\PoisonRoulette.pdb
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Ray\Dropbox\VisualStudio\Assignments\PoisonRoulette\UnitTests\obj\Debug\UnitTests.pdb
